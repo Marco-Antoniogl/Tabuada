@@ -1,0 +1,9 @@
+git clone "link githu"
+
+#Erro " Everything up-to-date "
+
+ >  git remote -v
+ >  git reset --hard Tabuada
+ >  git add .
+ >  git commit -m "Tabuada"
+ >  git push origin main
